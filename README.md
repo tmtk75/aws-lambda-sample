@@ -1,3 +1,7 @@
+See this repository for rich examples.
+https://github.com/tmtk75/aws-lambda-container-sample
+
+----
 AWS Lambda example using terraform and awscli.
 
 - Create a lamnda function which performe Get and Put to S3.
